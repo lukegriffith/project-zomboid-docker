@@ -10,4 +10,4 @@ ADD project_zomboid.txt project_zomboid.txt
 
 USER root 
 
-RUN steamcmd +runscript project_zomboid.txt
+RUN steamcmd +runscript /home/pzuser/project_zomboid.txt
